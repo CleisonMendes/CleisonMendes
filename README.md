@@ -6,7 +6,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `01 // IDENTIDADE`
 
@@ -35,7 +35,7 @@ A aurora representa movimento, transformação e luz surgindo em meio à escurid
 
 > *"Uma pequena luz hoje pode iluminar grandes caminhos amanhã. ✨"*
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `02 // TECH_STACK`
 
@@ -90,7 +90,7 @@ A aurora representa movimento, transformação e luz surgindo em meio à escurid
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `03 // TERMINAL`
 
@@ -122,7 +122,7 @@ STATUS       : ONLINE
 > Sistema pronto. █
 ```
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `04 // PROJETO_EM_DESTAQUE`
 
@@ -154,7 +154,7 @@ Dataset: Credit Card Fraud Detection — ULB / Kaggle
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `05 // PROJETOS`
 
@@ -168,7 +168,7 @@ Dataset: Credit Card Fraud Detection — ULB / Kaggle
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `06 // CURRENTLY_LEARNING`
 
@@ -192,7 +192,7 @@ Dataset: Credit Card Fraud Detection — ULB / Kaggle
 
 *A jornada atual está concentrada em transformar conhecimento acadêmico e experiência profissional em projetos práticos de tecnologia.*
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `07 // PROFESSIONAL_BACKGROUND`
 
@@ -222,7 +222,7 @@ NEGÓCIO
       SOLUÇÕES
 ```
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `08 // GITHUB_METRICS`
 
@@ -235,7 +235,7 @@ NEGÓCIO
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `09 // CONTRIBUTION_MATRIX`
 
@@ -247,7 +247,7 @@ NEGÓCIO
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 ## `10 // CONNECT`
 
@@ -262,7 +262,7 @@ NEGÓCIO
 
 </div>
 
----
+<div align="center"><img src="./assets/divisor.svg" width="100%" alt="divisor"/></div>
 
 <div align="center">
 
