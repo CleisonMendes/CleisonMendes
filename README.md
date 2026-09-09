@@ -1,10 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou Cleison Mendes
-
-**TECH • AUTOMATION • AI • FRAUD PREVENTION**
-
-*Transformando experiência de negócio em tecnologia, automação e soluções inteligentes.*
+<img src="./assets/banner.svg" width="100%" alt="Banner Aurora — Cleison Mendes"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=700&lines=Analista+de+BackOffice+%7C+Chargeback;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Java+%7C+SQL+%7C+IA;Automa%C3%A7%C3%A3o+%7C+Dados+%7C+Preven%C3%A7%C3%A3o+%C3%A0s+Fraudes;Construindo+hoje+a+tecnologia+do+amanh%C3%A3+%E2%9C%A8" alt="Typing SVG" />
 
