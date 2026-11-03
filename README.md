@@ -32,8 +32,8 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=CleisonMendes&show_icons=true&hide_border=true&bg_color=040d1a&title_color=7DF9FF&icon_color=7DF9FF&text_color=FFFFFF&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleisonMendes&layout=compact&hide_border=true&bg_color=040d1a&title_color=7DF9FF&text_color=FFFFFF" alt="Linguagens mais usadas"/>
+<img height="165em" src="<img height="165em" src="https://github-stats-extended.vercel.app/api?username=CleisonMendes&show_icons=true&hide_border=true&bg_color=040d1a&title_color=7DF9FF&icon_color=7DF9FF&text_color=FFFFFF&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+<img height="165em" src="<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CleisonMendes&layout=compact&hide_border=true&bg_color=040d1a&title_color=7DF9FF&text_color=FFFFFF" alt="Linguagens mais usadas"/>
 
 <img src="https://streak-stats.demolab.com?user=CleisonMendes&theme=dark&hide_border=true&background=040d1a&ring=7DF9FF&fire=7DF9FF&currStreakLabel=7DF9FF" alt="Sequência de contribuições"/>
 
